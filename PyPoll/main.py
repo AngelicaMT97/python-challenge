@@ -41,7 +41,7 @@ for candidate, votes in candidates.items():
         winner = candidate
         winner_votes = votes
 
-# Generate the analysis report
+# Generate the analysis report template
 analysis_report = (
     "Election Results\n"
     "-------------------------\n"
